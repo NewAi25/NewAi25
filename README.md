@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-🛠 Cofounder @ [Oz Lunara](https://app.ozlunara.com/) — a cloud security & infrastructure platform.
+🛠 Cofounder @ [Oz Lunara](https://app.ozlunara.com/) — a cloud and AI security platform.
 
 ☁️ I build and automate cloud infrastructure on **AWS** and **Azure**.
 
-⚙️ Passionate about **DevOps**, **Kubernetes**, **Terraform**, and **CI/CD**.
+⚙️ Passionate about **DevOps**, **FinOps**, **DevSecOps**, **Kubernetes**, **Terraform**, and **CI/CD**.
 
 📚 Currently sharing my learning journey via the [DevOps Day-0 Roadmap](https://github.com/NewAi25/devops-day0-roadmap).
 
@@ -39,6 +39,19 @@
 | [nextjs-docker-azure-webapp](https://github.com/NewAi25/nextjs-docker-azure-webapp) | Containerised Next.js app deployed to Azure App Service. |
 | [Azure_online_exam](https://github.com/NewAi25/Azure_online_exam) | AZ-104 mock-test platform built with Streamlit. |
 | [devops-day0-roadmap](https://github.com/NewAi25/devops-day0-roadmap) | Beginner-friendly DevOps roadmap with hands-on recipes. |
+
+## 🚀 Featured Work — Oz Lunara (private repo)
+
+Co-founder of **Oz Lunara**, a cloud security platform that connects to customer cloud accounts (AWS, Azure, GCP, Cloudflare, Kubernetes), scans for misconfigurations and attack paths, and uses AI agents to propose, validate, and ship remediations as real pull requests. Building since **April 2026**.
+
+**Stack & scope.** Vite + React + TypeScript SPA on Vercel, backed by Supabase (Postgres + Deno edge functions). Multi-tenant from the ground up with row-level security on every business table and per-organization encrypted credential storage. Stripe billing, OAuth2 / SAML SSO / SCIM, GitHub and GitLab app integrations, Slack and Jira connectors, pg_cron background workers, and an in-database observability layer.
+
+**AI surface.** Anthropic Claude powers a code-patch generator that runs proposed fixes through a validator and a second-opinion reviewer, gates them through OPA policy, and opens real pull requests via a GitHub App; a deterministic multi-factor risk scorer with per-factor explainability; a fix-verification agent that re-scans after merge to confirm closure; and automated verification of exploitability in a controlled test harness. Workflow memory uses pgvector for retrieval.
+
+**My role.** Self-taught engineer and co-founder. I ship using Claude Code as my primary engineering interface and drive the full stack — Postgres migrations and RLS, Deno edge functions, frontend components, third-party API integrations (GitHub Apps, Stripe, cloud provider SDKs), and production debugging from React props down to Postgres constraints.
+
+**Status.** Private beta on staging.
+
 
 ## 📫 Connect
 
