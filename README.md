@@ -64,7 +64,7 @@ The role where my Azure depth came from. Engineered secure Azure networking (Jum
 
 **Production infra cost cut ~47%** (~$104/mo → under $55/mo) through ECS Fargate auto-scaling and right-sizing.
 
-**$0 infrastructure spend for 5+ months** via AWS Activate credit strategy.
+**$0 infrastructure spend for 5+ months** via AWS Signup credit strategy.
 
 **$1,000 AWS Activate credits secured**, with leadership-level conversations toward $100K startup credits.
 
