@@ -30,6 +30,57 @@
 
 **Web:** Next.js · React · Node.js
 
+---
+
+## 💼 Experience
+
+_**Self-taught cloud engineer.** From first hands-on Azure work to running concurrent production AWS contracts in **under 12 months** — Azure foundation at a Microsoft CSP partner, two parallel AWS DevOps contracts (HealthTech + FinTech), and a community lead role at Infracodebase. In April 2026, transitioned out of the contracts and community work to build **Oz Lunara** full-time as co-founder._
+
+**Community Lead** · *Infracodebase* · Jan 2026 – Apr 2026 · Remote (France)
+
+Built and grew a global technical community of infrastructure engineers, DevOps practitioners, and cloud architects. Designed enterprise IaC and CI/CD training programs, led the Ambassador Program, and produced technical content grounded in production experience covering IaC patterns, cloud security, and infrastructure governance.
+
+**Contract DevOps Engineer** · *HealthTech startup (HIPAA-aligned)* · Sep 2025 – Apr 2026 · Remote
+
+Architected production AWS from scratch — VPC, IAM least-privilege, TLS via ACM, WAF, ECS Fargate, ECR, ALB, auto-scaling. Built 10+ GitOps CI/CD pipelines on GitHub Actions, cut deployment time by 97%, eliminated hardcoded credentials via SSM Parameter Store, and wired the full CloudWatch observability stack. Resolved 5 critical production incidents solo.
+
+**Contract DevOps Engineer** · *FinTech startup (PCI-DSS-aligned)* · Sep 2025 – Apr 2026 · Remote
+
+Engineered PCI-DSS-aligned AWS infrastructure with private VPC, IAM/RBAC, WAF, and Terraform IaC. Built 8+ multi-repo GitHub Actions pipelines with environment gates and automated rollback (95–96% deployment-time reduction). Designed containerized microservices on ECS Fargate behind ALB with CloudFront / Route 53 / WAF on the frontend.
+
+**Cloud & DevOps Intern → Azure foundation** · *Microsoft CSP Partner* · Apr 2025 – Aug 2025 · Remote
+
+The role where my Azure depth came from. Engineered secure Azure networking (Jump Hosts, NSGs, UDRs, VNet peering), provisioned IaC across multiple environments with Terraform and Azure CLI, deployed Next.js / Flask / FastAPI workloads on Azure App Service, and built CI/CD on Azure DevOps Pipelines. Integrated Azure AI Foundry and Cognitive Services (Custom Vision, Document Intelligence, Language). Authored 70+ Azure infrastructure recipes and 30+ DevOps workflow guides.
+
+---
+
+## 🏆 Key Achievements
+
+**18 CI/CD pipelines** shipped to staging and production across two concurrent startup clients.
+
+**97% frontend deployment time reduction** (~45 min → under 1 min) and **94% backend reduction** (~90 min → 5 min).
+
+**Docker image size reduced 80%** (1.34 GB → 263 MB) via multi-stage builds and dependency cleanup.
+
+**Production infra cost cut ~47%** (~$104/mo → under $55/mo) through ECS Fargate auto-scaling and right-sizing.
+
+**$0 infrastructure spend for 5+ months** via AWS Activate credit strategy.
+
+**$1,000 AWS Activate credits secured**, with leadership-level conversations toward $100K startup credits.
+
+**200,000+ LinkedIn impressions** and **85,000+ unique members reached** in under 10 months as a technical content creator.
+
+_All of the above delivered in the last 12 months._
+
+---
+
+## 🎓 Education
+
+**B.Tech, Electronics & Communication Engineering** · Institute of Engineering and Management (IEM), Kolkata · 2016–2019
+
+**Diploma, Electronics & Telecommunication Engineering** · Elite Polytechnic Institute, Hooghly · 2013–2016
+
+
 ## 📌 Featured Projects
 
 | Project | What it does |
