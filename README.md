@@ -112,4 +112,5 @@ Co-founder of **Oz Lunara**, a cloud security platform that connects to customer
 
 📝 [InfraCodeBase](https://infracodebase.com/users/user_38ca2Ghhs7E18FgoottZkYatRgJ)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NewAi25&show_icons=true&hide_border=true)
+🌐 https://controlaltbuild.lovable.app
+
