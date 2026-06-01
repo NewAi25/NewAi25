@@ -68,7 +68,7 @@ The role where my Azure depth came from. Engineered secure Azure networking (Jum
 
 **$1,000 AWS Activate credits secured**, with leadership-level conversations toward $100K startup credits.
 
-**200,000+ LinkedIn impressions** and **85,000+ unique members reached** in under 10 months as a technical content creator.
+**220,000+ LinkedIn impressions** and **95,000+ unique members reached** in under 10 months as a technical content creator.
 
 _All of the above delivered in the last 12 months._
 
