@@ -35,7 +35,7 @@ Production AWS from scratch with Terraform. 10+ GitHub Actions pipelines (deploy
 PCI-aligned AWS (private VPC, least-privilege IAM, RBAC, WAF) with Terraform; 8+ multi-repo pipelines with environment gates and rollback.
 
 **Community Lead** · *Infracodebase* · Jan 2026 – Apr 2026
-Ran enterprise Terraform and CI/CD training; published 13 AWS infrastructure workspaces (see below), including a zero-trust EKS landing zone.
+Ran enterprise Terraform and CI/CD training; published 14 AWS infrastructure workspaces (see below), including a zero-trust EKS landing zone.
 
 **Cloud & DevOps Intern** · *Trainso (Microsoft CSP)* · Apr 2025 – Sep 2025
 Secure Azure networking, Terraform, App Service deployments; wrote 70+ infra recipes and 30+ workflow guides.
@@ -65,6 +65,7 @@ Terraform and CloudFormation workspaces from my Infracodebase work, each with a 
 
 | Repo | What it is |
 |---|---|
+| [aws-eks-landing-zone](https://github.com/NewAi25/aws-eks-landing-zone) | Production-ready EKS landing zone, zero trust and multi-account, in Terraform and CloudFormation |
 | [eks-infra](https://github.com/NewAi25/eks-infra) | Modular Terraform for an enterprise EKS landing zone (dev/prod) |
 | [eks-terraform-windows-nodes](https://github.com/NewAi25/eks-terraform-windows-nodes) | EKS cluster, Windows EC2 management host and ingress-nginx |
 | [blog-microservice-aws](https://github.com/NewAi25/blog-microservice-aws) | Microservices blog platform on EKS with RDS and GitHub Actions |
