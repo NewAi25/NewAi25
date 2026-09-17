@@ -5,7 +5,6 @@
 I own infrastructure end to end: AWS, EKS, Terraform, CI/CD and security. I also build and check AI evaluations.
 
 - 🛠 Co-Founder & CTO at [Oz Lunara](https://app.ozlunara.com/), a cloud and AI security platform (private beta)
-- 🤖 AI Platform Engineer (contract) at Nodex8.ai, building Ask Claris, a guarded NL-to-SQL governance copilot
 - 🧪 Built [DeskBench](https://github.com/NewAi25/deskbench), a benchmark for AI reliability on messy office work
 - 🐄 Sentient Futures Project Incubator mentee, working on AI × animal welfare ([plf-audit](https://github.com/NewAi25/plf-audit))
 - 🌍 Based in Kolkata, working remote, open to relocating
@@ -25,8 +24,8 @@ I own infrastructure end to end: AWS, EKS, Terraform, CI/CD and security. I also
 **Co-Founder & CTO** · *Oz Lunara* · Apr 2026 – now
 Multi-tenant cloud security posture platform (React, Supabase/Postgres, ~184 edge functions) with RLS everywhere and per-org encrypted credentials. Built a 7-layer policy and audit pipeline and Belay, a guardrail that blocks dangerous AI-agent actions.
 
-**AI Platform Engineer (contract)** · *Nodex8.ai* · Jun 2026 – now
-Built Ask Claris: SELECT-only guard, schema allowlist, PII masking, full query audit trail, 12/12 acceptance suite. Merged 14+ ML pipeline outputs into one 5-schema database with 16 quality checks.
+**AI Platform Engineer (short contract)** · *Private client, AI governance platform* · 2026
+Built a guarded NL-to-SQL copilot: SELECT-only guard, schema allowlist, PII masking, full query audit trail, 12/12 acceptance suite. Merged 14+ ML pipeline outputs into one 5-schema database with 16 quality checks.
 
 **Sole DevOps Engineer (contract)** · *BawaHealth, HIPAA health tech* · Sep 2025 – Apr 2026
 Production AWS from scratch with Terraform. 10+ GitHub Actions pipelines (deploys ~45 min → under 1 min), SSM secrets, CloudWatch/SNS alerting, 5 critical incidents fixed solo.
@@ -35,7 +34,7 @@ Production AWS from scratch with Terraform. 10+ GitHub Actions pipelines (deploy
 PCI-aligned AWS (private VPC, least-privilege IAM, RBAC, WAF) with Terraform; 8+ multi-repo pipelines with environment gates and rollback.
 
 **Community Lead** · *Infracodebase* · Jan 2026 – Apr 2026
-Ran enterprise Terraform and CI/CD training; published 14 AWS infrastructure workspaces (see below), including a zero-trust EKS landing zone.
+Ran enterprise Terraform and CI/CD training; published 12 Terraform workspaces, including a zero-trust EKS landing zone.
 
 **Cloud & DevOps Intern** · *Trainso (Microsoft CSP)* · Apr 2025 – Sep 2025
 Secure Azure networking, Terraform, App Service deployments; wrote 70+ infra recipes and 30+ workflow guides.
@@ -58,27 +57,6 @@ Secure Azure networking, Terraform, App Service deployments; wrote 70+ infra rec
 | [Eks-Terraform-Helm-Ingress-LB](https://github.com/NewAi25/Eks-Terraform-Helm-Ingress-LB) | EKS with Terraform, Helm and NGINX ingress |
 | [system-design-ai-era-7-days](https://github.com/NewAi25/system-design-ai-era-7-days) | 7-day system design course for the AI era |
 | [devops-day0-roadmap](https://github.com/NewAi25/devops-day0-roadmap) | Beginner DevOps roadmap with hands-on recipes |
-
-## ☁️ AWS infrastructure workspaces
-
-Terraform and CloudFormation workspaces from my Infracodebase work, each with a README and architecture diagram.
-
-| Repo | What it is |
-|---|---|
-| [aws-eks-landing-zone](https://github.com/NewAi25/aws-eks-landing-zone) | Production-ready EKS landing zone, zero trust and multi-account, in Terraform and CloudFormation |
-| [eks-infra](https://github.com/NewAi25/eks-infra) | Modular Terraform for an enterprise EKS landing zone (dev/prod) |
-| [eks-terraform-windows-nodes](https://github.com/NewAi25/eks-terraform-windows-nodes) | EKS cluster, Windows EC2 management host and ingress-nginx |
-| [blog-microservice-aws](https://github.com/NewAi25/blog-microservice-aws) | Microservices blog platform on EKS with RDS and GitHub Actions |
-| [aws-backend-infra](https://github.com/NewAi25/aws-backend-infra) | Backend platform: ECS Fargate, RDS PostgreSQL, CloudFront and WAF |
-| [backend-infrastructure-aws](https://github.com/NewAi25/backend-infrastructure-aws) | Containerised Node.js API on ECS Fargate with RDS, WAF and Route 53 |
-| [incident-investigator-serverless](https://github.com/NewAi25/incident-investigator-serverless) | Serverless incident investigator: Step Functions, Lambda workers, Bedrock advisory |
-| [aws-incident-investigator](https://github.com/NewAi25/aws-incident-investigator) | Incident investigation PoC with security remediations and compliance report |
-| [aws-rds-terraform](https://github.com/NewAi25/aws-rds-terraform) | Production RDS PostgreSQL with encryption, Performance Insights and monitoring |
-| [trans-s3](https://github.com/NewAi25/trans-s3) | HIPAA-aligned S3 landing zone for healthcare transcripts with cross-account IAM |
-| [transcription-s3](https://github.com/NewAi25/transcription-s3) | Secure transcript ingestion on S3 with KMS and audit logging |
-| [frontend-infra-aws](https://github.com/NewAi25/frontend-infra-aws) | Security-hardened static hosting: S3, CloudFront OAC, ACM, Route 53 |
-| [lovable-app-infra](https://github.com/NewAi25/lovable-app-infra) | Hosting a Lovable (Vite + React) app on S3 + CloudFront, Amplify build spec |
-| [aws-amplify-hosting](https://github.com/NewAi25/aws-amplify-hosting) | Postmortem diagram: from broken static hosting to a working Amplify setup |
 
 ## 🎓 Education
 
